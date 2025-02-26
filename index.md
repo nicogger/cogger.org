@@ -1,47 +1,29 @@
 ---
 layout: page
-title: Thank You!
-sitemap: false
+title: Cybersecurity & IT Security Solutions
+sitemap: true
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+## Helping Organisations Strengthen Their Cybersecurity  
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+<div style="display: flex; align-items: center;">
+  <div style="flex: 2;">
+    With expertise in **cybersecurity, IT security, and risk management**, I help organisations protect their systems, secure their data, and stay ahead of evolving threats.  
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="assets/img/nick.png" alt="Nick" style="width: 80%; max-width: 250px; border-radius: 10px;">
+  </div>
+</div>
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+### Areas of Expertise  
+- **Cybersecurity Consulting** – Risk assessments, security audits, and compliance support.  
+- **IT Infrastructure Security** – Hardening networks, cloud security, and access management.  
+- **Cybersecurity Training** – Educating teams on threats, phishing prevention, and security best practices.  
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+### Why Work With Me?  
+As a **ISC2 Associate and cybersecurity professional** with extensive experience in **network security and IT risk management**, I understand the unique challenges businesses and educational institutions face in securing their environments.  
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+### Let’s Talk  
+If you're looking for **cybersecurity expertise, consulting, or training**, get in touch.  
 
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
-
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+📩 **[Contact Me](mailto:nicogger@gmail.com)**
