@@ -43,6 +43,7 @@ author:
   # Used by `jekyll-feed`:
   name:                Nick Cogger
   email:               nicogger@gmail.com
+  linkedin: nick-cogger
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -52,10 +53,10 @@ menu:
     url:               /blog/
   - title:             Projects
     url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+  - title:             CV
+    url:               /cv/
+  - title:             Contact
+    url:               /contact/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -248,7 +249,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      false
+  cookies_banner:      true
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.

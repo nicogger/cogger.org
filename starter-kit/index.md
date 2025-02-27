@@ -26,4 +26,4 @@ As a **ISC2 Associate and cybersecurity professional** with extensive experience
 ### Let’s Talk  
 If you're looking for **cybersecurity expertise, consulting, or training**, get in touch.  
 
-📩 **[Contact Me](mailto:nicogger@gmail.com)**
+**[Contact Me](/contact/)**
