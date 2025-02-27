@@ -53,8 +53,6 @@ menu:
     url:               /blog/
   - title:             Services
     url:               /services/
-  - title:             Projects
-    url:               /projects/
   - title:             CV
     url:               /cv/
   - title:             Contact
