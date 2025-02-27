@@ -2,92 +2,135 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "https://via.placeholder.com/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  name: "Nick Cogger"
+  label: "Cybersecurity & IT Specialist"
+  picture: "/assets/img/nick.png"
+  email: "nicogger@gmail.com"
+  phone: "07958601783"
+  website: "https://cogger.org"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+   Experienced Network Manager & Cybersecurity Specialist with expertise in IT security, risk management, 
+    and network administration. ISC2 Associate (CISSP) with hands-on experience in penetration testing, 
+    compliance audits (Cyber Essentials, GDPR), and security awareness training. 
+    Passionate about advancing cybersecurity research and developing innovative security solutions.
+
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    address: "12 Woodlands Avenue"
+    postalCode: "LL28 4RU"
+    city: "Colwyn Bay"
+    countryCode: "UK"
+    region: "Conwy"
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "Nick Cogger"
+      url: "https://www.linkedin.com/in/nick-cogger/"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "St David's College"
+    position: "Network Manager & Teacher of COmputer Science"
+    website: "https://stdavidscollege.co.uk"
+    startDate: "2007-09-01"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      Managing the IT infrastructure and cybersecurity for a leading independent school, ensuring compliance 
+      with Cyber Essentials, GDPR, and KCSIE. Leading penetration testing initiatives, staff training, and 
+      security policy development.
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      - Conducted **penetration testing** and vulnerability assessments, identifying and patching security flaws.
+      - Developed PowerShell/Python security scripts to automate security audits.
+      - Designed and implemented a **cybersecurity training program** for staff, reducing security incidents by 30%.
+      - Migrated the school’s IT infrastructure to a **hybrid cloud model** using Microsoft 365 and Intune MDM.
+      - Deployed **next-gen firewalls and network security solutions** to strengthen network protection.
+
+
 volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
+  - organization: "Penetration Testing & Vulnerability Assessments"
+    position: "Cybersecurity Consultant"
+    website: "https://cogger.org"
+    startDate: "2023-01-01"
+    endDate: ""
+    summary: >
+      Conducted internal penetration testing initiatives, identifying and remediating security gaps 
+      in network infrastructures. Developed security best practices based on findings.
     highlights:
-      - "Awarded 'Teacher of the Month'"
+      - Identified security vulnerabilities and provided mitigation strategies.
+      - Implemented security patching and incident response procedures.
+
+  - organization: "Custom Security Audit Scripts"
+    position: "Automation Developer"
+    startDate: "2023-01-01"
+    endDate: ""
+    summary: >
+      Developed PowerShell/Python scripts to automate vulnerability detection across networked devices.
+    highlights:
+      - Improved network security monitoring efficiency.
+      - Automated compliance checks for Cyber Essentials and GDPR.
+
+  - organization: "Cybersecurity Awareness Training Program"
+    position: "Cybersecurity Trainer"
+    startDate: "2023-01-01"
+    endDate: ""
+    summary: >
+      Created and delivered cybersecurity training for staff, focusing on phishing awareness, password hygiene, and incident response.
+    highlights:
+      - Developed online cybersecurity modules for ongoing training.
+      - Helped reduce security incidents by 30% through awareness initiatives.
+
+  - organization: "Firewall Deployment & Network Security Enhancement"
+    position: "Network Security Engineer"
+    startDate: "2023-01-01"
+    endDate: ""
+    summary: >
+      Led the deployment of a next-generation firewall solution, improving network security and threat detection.
+    highlights:
+      - Configured firewall policies to mitigate external threats.
+      - Enhanced threat detection through IDS/IPS integration.
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  
+  - institution: "Master's in Cybersecurity (In Progress)"
+    area: "Cybersecurity & Computer Science"
+    studyType: "MSc"
+    startDate: "2025-03-01"
+    endDate: ""
+
+  - institution: "ISC2"
+    area: "Cybersecurity"
+    studyType: "ISC2 Associate (CISSP)"
+    startDate: "2024-09-01"
+    endDate: ""
+
+  - institution: "Warwick University"
+    area: "Mathematics, Operational Research, Statistics & Economics"
+    studyType: "Degree (Incomplete)"
+    startDate: "2005-09-01"
+    endDate: "2007-06-01"
+
+
 skills:
-  - name: "Web Development"
-    level: "Master"
+  - name: "Cybersecurity & Risk Management"
+    level: "Expert"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
-    level: "Master"
+      - "Penetration Testing"
+      - "Vulnerability Assessments"
+      - "Cyber Essentials & GDPR Compliance"
+      - "Security Policies & Governance"
+  - name: "Network Security"
+    level: "Expert"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Firewalls (Sophos, WatchGuard)"
+      - "VPNs & Secure Remote Access"
+      - "SIEM & IDS/IPS"
+      - "Incident Response & Threat Detection"
+  - name: "Cloud & Infrastructure Security"
+    level: "Advanced"
+    keywords:
+      - "Microsoft 365 & Azure AD Security"
+      - "Hybrid AD & Intune MDM"
+      - "Server Hardening & Endpoint Protection"
+  - name: "Programming & Automation"
+    level: "Advanced"
+    keywords:
+      - "Python, PowerShell, Bash"
+      - "Security Scripting & Automation"
 languages:
   - language: "English"
     fluency: "Native speaker"
@@ -96,8 +139,3 @@ interests:
     keywords:
       - "Ferrets"
       - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.

@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Cybersecurity & IT Security Solutions
+cover:  true 
 sitemap: true
+
 ---
 
 ## Helping Organisations Strengthen Their Cybersecurity  

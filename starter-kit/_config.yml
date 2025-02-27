@@ -51,6 +51,8 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
+  - title:             Services
+    url:               /services/
   - title:             Projects
     url:               /projects/
   - title:             CV
