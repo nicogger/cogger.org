@@ -79,7 +79,7 @@ Secure your Moodle or other VLEs to protect student data and ensure smooth opera
 ---
 
 ## Why Choose Me?
-- **CISSP Certified** – Globally recognized cybersecurity expertise.
+- **ISC2 Associate Certified** – Globally recognized cybersecurity expertise.
 - **18 Years of IT & Security Experience** – Deep understanding of school operations and business IT security.
 - **Compliance Specialist** – Expertise in KCSIE, Cyber Essentials, GDPR, and ISO 27001.
 - **Practical, Actionable Solutions** – I focus on real-world, cost-effective security improvements.
