@@ -10,7 +10,7 @@ sitemap: true
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 2;">
-    With expertise in **cybersecurity, IT security, and risk management**, I help organisations protect their systems, secure their data, and stay ahead of evolving threats.  
+    With expertise in cybersecurity, IT security, and risk management, I help organisations protect their systems, secure their data, and stay ahead of evolving threats.  
   </div>
   <div style="flex: 1; text-align: right;">
     <img src="assets/img/nick.png" alt="Nick" style="width: 80%; max-width: 250px; border-radius: 10px;">
