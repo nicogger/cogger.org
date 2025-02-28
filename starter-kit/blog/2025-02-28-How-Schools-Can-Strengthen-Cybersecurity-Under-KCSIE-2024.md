@@ -2,8 +2,6 @@
 title: "How Schools Can Strengthen Cybersecurity Under KCSIE 2024"
 layout: post
 date: 2025-02-28
-description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
 hide_last_modified: true
 categories: cybersecurity
