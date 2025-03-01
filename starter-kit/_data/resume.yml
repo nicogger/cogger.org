@@ -15,18 +15,15 @@ basics:
     Passionate about advancing cybersecurity research and developing innovative security solutions.
 
   location:
-    address: "12 Woodlands Avenue"
-    postalCode: "LL28 4RU"
-    city: "Colwyn Bay"
-    countryCode: "UK"
-    region: "Conwy"
+    
+    region: "North Wales"
   profiles:
     - network: "LinkedIn"
       username: "Nick Cogger"
       url: "https://www.linkedin.com/in/nick-cogger/"
 work:
   - company: "St David's College"
-    position: "Network Manager & Teacher of COmputer Science"
+    position: "Network Manager & Teacher of Computer Science"
     website: "https://stdavidscollege.co.uk"
     startDate: "2007-09-01"
     endDate: ""
