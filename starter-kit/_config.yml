@@ -62,7 +62,7 @@ menu:
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title:             LICENSE
-    url:               /licence/
+    url:               /license/
   - title:             PRIVACY
     url:               /privacy/
   
