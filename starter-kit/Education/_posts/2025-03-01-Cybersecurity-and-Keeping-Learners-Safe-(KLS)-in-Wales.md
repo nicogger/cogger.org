@@ -3,6 +3,9 @@ title: "Cybersecurity and Keeping Learners Safe (KLS) in Wales"
 layout: post
 date: 2025-03-01
 categories: cybersecurity education safeguarding
+sitemap: false
+hide_last_modified: true
+tags: [security, networks, penetration-testing]
 ---
 
 # Cybersecurity and Keeping Learners Safe (KLS) in Wales
