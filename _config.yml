@@ -28,7 +28,7 @@ description:           >
   Cybersecurity consultant and educator with 18+ years of experience. Helping schools and businesses protect their data and train their teams.
 
 # A shorter description for the sidebar.
-tagline:               Cybersecurity expertise meets educational innovation.
+tagline:               Building Security Culture Through GRC
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,7 +42,8 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                Nick Cogger
-  email:               nicogger@gmail.com
+  email:               nick@coggercybersecurity.co.uk
+  linkedin: nick-cogger
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -50,23 +51,21 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-  - title:             Projects
-    url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Services
+    url:               /services/
+  - title:             CV
+    url:               /cv/
+  - title:             Contact
+    url:               /contact/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
-
+    url:               /license/
+  - title:             PRIVACY
+    url:               /privacy/
+  
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2025. All rights reserved.
 
@@ -248,7 +247,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      false
+  cookies_banner:      true
 
   # Set to `true` if you would like to add a "Powered by Hydejack" link in the footer.
   # Note that this setting has no effect when using the free version.

@@ -1,0 +1,31 @@
+{% if resume.certifications.size > 0 %}
+<section>
+  <div class="npb">
+    <h2 id="certifications" class="h3 hr-bottom">
+      {{ strings.resume.certifications | default:"Certifications" }}
+      <span class="symbol {{ icons.education | default:'icon-trophy' }}"></span>
+    </h2>
+
+    {% for cert in resume.certifications %}
+    <section>
+      <header class="{% unless forloop.first %}mt2{% endunless %}">
+        
+        <p class="faded">
+            {{ cert.date | date: "%B %Y" }}
+        </p>
+
+        <h3 class="h4">
+            <span class="bc">{{ cert.title }}</span>
+        </h3>
+
+        <p class="faded summary">
+            <span class="bc">{{ cert.issuer }}</span>
+        </p>
+
+      </header>
+    </section>
+    {% endfor %}
+    
+  </div>
+</section>
+{% endif %}

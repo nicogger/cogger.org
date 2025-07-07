@@ -27,6 +27,9 @@
         }}
       </h3>
     </header>
+    {% if edu.summary %}
+      <p class="faded summary" >{{ edu.summary | markdownify }}</p>
+    {% endif %}
 
     {% if edu.courses.size > 0 %}
     <h4 class="sr-only">{{ strings.resume.courses | default:"Courses" }}</h4>
